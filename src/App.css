@@ -1,7 +1,7 @@
 @import url("//fonts.googleapis.com/css?family=Roboto:700,400,300,200,100&subset=latin,cyrillic");
 
 body {
-  font-family: "Muller Light";
+  font-family: "Muller Light", "roboto";
   max-height: 100vh;
   min-width: 600px;
 }
@@ -29,7 +29,7 @@ body {
   display: inline-block;
   width: 80vw;
   color: #ddd;
-  font-family: "Muller";
+  font-family: "Muller", "roboto";
   padding: 6px 20px 6px 114px;
   text-align: center;
 }
